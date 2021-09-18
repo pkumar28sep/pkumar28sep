@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Prabhat Kumar</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkumar28sep&label=Profile%20views&color=0e75b6&style=flat" alt="pkumar28sep" /> </p>
@@ -18,7 +18,8 @@
 <p align="left">
 <a href="https://twitter.com/prabhat25196398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhat25196398" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabhat-kumar-8b767718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat-kumar-8b767718b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pkuma28sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pkumar28sep" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pkumar28sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pkumar28sep" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pkumar28sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pkumar28sep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
